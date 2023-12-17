@@ -1,2 +1,2 @@
 # android
-  A very simple project about android, for course
+  A very simple project on android, for the course
